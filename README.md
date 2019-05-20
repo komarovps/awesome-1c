@@ -6,7 +6,10 @@ awesome-1c
 
 <p align="center">
   <a href="https://github.com/search?q=language:1c-enterprise&type=Repositories">
-      <img src=".img/1c-repositories-green.png">
+      <img src=".img/1C-Repositories-green.svg">
+  </a>
+  <a href="https://github.com/trending/1c-enterprise">
+      <img src=".img/1C-Trending-orange.svg">
   </a>
 </p>
 
