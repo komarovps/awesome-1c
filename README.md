@@ -52,6 +52,29 @@ awesome-1c
 
 ### Репозитории сообщества
 - [tool1cd](https://github.com/e8tools/tool1cd) - Инструмент для работы с файлами 1CD за авторством Валерия Агеева с адаптацией от сообщества
+- [xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C) - Unit testing tools for 1C:Enterprise 8 platform
+- [precommit1c](https://github.com/xDrivenDevelopment/precommit1c) - Набор утилит для автоматической разборки/сборки внешних обработок и отчетов, при помещении (commit) в git
+- [gitsync](https://github.com/oscript-library/gitsync) - Синхронизация хранилища 1С с репозиторием git
+- [add](https://github.com/silverbulleters/add) - Разработка с управляемым качеством на 1С
+- [oscript-library](https://github.com/EvilBeaver/oscript-library) - Библиотека полезных скриптов для 1Script
+- [Tasks](https://github.com/BlizD/Tasks) - Конфигурация "Управление задачами" с использованием библиотеки стандартных подсистем. Канбан доска. Загрузка изменений из хранилища 1с.
+- [vanessa-automation](https://github.com/Pr-Mex/vanessa-automation) - BDD в 1С
+- [vanessa-runner](https://github.com/silverbulleters/vanessa-runner) - утилита автоматизация базовых операций разработчика 1С
+- [TestingTool-3](https://github.com/ivanov660/TestingTool-3) - Testing Tool 3.0
+- [ru.capralow.dt.unit.launcher](https://github.com/DoublesunRUS/ru.capralow.dt.unit.launcher) - Запуск модульных тестов для EDT
+- [1c-syntax](https://github.com/1c-syntax/1c-syntax) - Syntax definition rules for 1C:Enterprise 8 in TextMate format
+- [Connector](https://github.com/vbondarevsky/Connector) - Коннектор: удобный HTTP-клиент для 1С:Предприятие 8
+- [SmartConfigurator](https://github.com/ret-Phoenix/SmartConfigurator) - Расширяем конфигуратор без Снегопата и ТурбоКонфа
+- [packman](https://github.com/oscript-library/packman) - Сборка тиражируемых дистрибутивов 1С
+- [deployka](https://github.com/oscript-library/deployka) - Continuous Delivery for 1C:Enterprise
+- [1C-Runtime-Developer-Tools](https://github.com/tormozit/1C-Runtime-Developer-Tools) - Runtime Developer Tools for 1C platform 8.2+
+- [FoxyLink](https://github.com/FoxyLinkIO/FoxyLink) - An easy way to handle integration tasks in a reliable way and run them on 1C:Enterprise server
+- [1C-Deploy-and-CopyDB](https://github.com/Stepa86/1C-Deploy-and-CopyDB) - Набор скриптов для деплоя базы 1С через хранилище и копирование через sql-бекап одной базы в другую
+- [v8runner](https://github.com/oscript-library/v8runner) - Управление запуском 1С из командной строки
+- [erp2_xtests](https://github.com/acsent80/erp2_xtests) - Набор тестов для конфигурации 1C:ERP 2
+- [deployka](https://github.com/silverbulleters/deployka) - Continuous Delivery for 1C:Enterprise
+- [oscript-sql](https://github.com/ret-Phoenix/oscript-sql) - Компонент для работы с базой sqlite из onescript
+- [oscript-simple-gui](https://github.com/ret-Phoenix/oscript-simple-gui) - Внешняя компонента позволяет создавать формы на языке 1script. API работы с формами максимально приближен к синтаксису 1С.
 
 
 ## Статьи
