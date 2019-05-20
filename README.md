@@ -78,6 +78,8 @@ awesome-1c
 - [deployka](https://github.com/silverbulleters/deployka) - Continuous Delivery for 1C:Enterprise
 - [oscript-sql](https://github.com/ret-Phoenix/oscript-sql) - Компонент для работы с базой sqlite из onescript
 - [oscript-simple-gui](https://github.com/ret-Phoenix/oscript-simple-gui) - Внешняя компонента позволяет создавать формы на языке 1script. API работы с формами максимально приближен к синтаксису 1С.
+- [irac](https://github.com/arkuznetsov/irac) - Интерфейсная библиотека (oscript) к утилите администрирования кластера серверов 1С (rac).
+- [Tasks](https://github.com/BlizD/Tasks) - Конфигурация "Управление задачами" с использованием библиотеки стандартных подсистем. Канбан доска. Загрузка изменений из хранилища 1с.
 
 
 ## Статьи
