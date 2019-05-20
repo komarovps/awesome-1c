@@ -28,6 +28,7 @@ awesome-1c
 - [Сообщество](#сообщество)
 - [Франчайзи](#франчайзи)
 
+------
 
 ## Ресурсы
 - [1С](https://1c.ru) - Официальный сайт фирмы «1С»
@@ -43,6 +44,8 @@ awesome-1c
 - [HelpMe1C.ru](https://helpme1c.ru/) - помощник бухгалтера и программиста
 - [Вячеслав Гилёв](http://www.gilev.ru/)
 - [Павел Чистов](https://chistov.pro/)
+
+------
 
 ## Репозитории
 
@@ -81,12 +84,11 @@ awesome-1c
 - [irac](https://github.com/arkuznetsov/irac) - Интерфейсная библиотека (oscript) к утилите администрирования кластера серверов 1С (rac).
 - [Tasks](https://github.com/BlizD/Tasks) - Конфигурация "Управление задачами" с использованием библиотеки стандартных подсистем. Канбан доска. Загрузка изменений из хранилища 1с.
 
+------
 
 ## Статьи
 
-
-
-
+------
 
 ## Обучение
 
@@ -96,7 +98,7 @@ awesome-1c
 ### Видео
 - [Курс Павла Чистова](https://www.youtube.com/watch?v=s6b8EXmz8a4&list=PLkdnTy1CsgR0y5QgkDfsgYJsETriuKK3f) - Комплексная подготовка программистов 1С:Предприятие 8.2. 2009 год.
 
-
+------
 
 ## БСП
 
@@ -105,7 +107,7 @@ awesome-1c
 - [Документация БСП](https://its.1c.ru/db/bsp311doc)
 
 
-
+------
 
 
 ## Конфигурации
@@ -129,6 +131,9 @@ awesome-1c
 - [Automation Driven Development](https://github.com/silverbulleters/add) - ADD для 1C (BDD&TDD&etc)
 - [xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C) - TDD для 1С
 - [Tester](https://github.com/grumagargler/CommonTests) - Почти SpecLog для 1С
+
+
+------
 
 
 ## Интеграции
@@ -156,6 +161,7 @@ awesome-1c
 - [Template for 1C:Enterprise add-in](https://github.com/gnusi/AddInNativeTemplate) - Шаблон внешней компоненты. Сборка с помощью CMake
 - [FPNativeAPI](https://github.com/Zawullon/fpnativeapi) - пример Native API расширения для 1С на FreePascal/Lazarus
 
+------
 
 ## Утилиты
 
@@ -182,6 +188,7 @@ awesome-1c
 - [GitLab Syntax Highlight](https://github.com/karnilaev/1c-syntax-for-GitLab) - подсветка синтаксиса 1С для GitLab Server
 - [Vim Syntax Highlight](https://github.com/andreevlex/vim-language-1c-bsl) - поддержка 1С в редакторе Vim
 
+------
 
 ## Сообщество
 
@@ -209,5 +216,7 @@ awesome-1c
 - [1С wiki](https://t.me/wiki1c) - Про 1С и не только
 - [1С:ERP - Ваш Консультант](https://t.me/consultant_1c) - Установка, настройка, сопровождение программ 1С:ERP, 1С:УНФ, УТ, БП, ЗиУП, ДО. 
 - [1С: FUN](https://t.me/jokes1c) - 1С. Всё гораздо лучше чем есть на самом деле.
+
+------
 
 ## Франчайзи
