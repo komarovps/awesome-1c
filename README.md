@@ -4,6 +4,11 @@ awesome-1c
 
 ![](.img/splash.jpg)
 
+<p align="center">
+  <a href="https://github.com/search?q=language:1c-enterprise&type=Repositories">
+      <img src=".img/1c-repositories-green.png">
+  </a>
+</p>
 
 
 ## Контент
